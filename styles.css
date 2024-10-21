@@ -4,3 +4,9 @@ body {
     text-align: center;
     padding: 50px;
 }
+
+.div_container {
+    padding: 20px;
+    background: #fff;
+    
+}

@@ -8,5 +8,38 @@ body {
 .div_container {
     padding: 20px;
     background: #fff;
-    
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+}
+
+#username_input {
+    width: 50%;
+    padding: 7px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+button {
+    padding: 7px 12px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#profile_ouput {
+    margin-top: 20px;
+    text-align: left;
+}
+
+#profile-data {
+    margin-bottom: 10px;
 }
